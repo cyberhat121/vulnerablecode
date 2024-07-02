@@ -6,7 +6,7 @@
 # See https://github.com/nexB/vulnerablecode for support or download.
 # See https://aboutcode.org for more information about nexB OSS projects
 
-FROM python:3.12.0a5-slim
+FROM python:3.13.0b2-slim
 
 WORKDIR /app
 
